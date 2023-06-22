@@ -4,7 +4,7 @@
 
 This is a space for deforum developers to collaboratively plan the next generation of AI tooling.
 
-**This space is NOT for users to request features for the current deforum.** This is explicitly for planning and prioritizing what we want the next thing to look like.
+**This space is NOT for users to request features for the current deforum.** This is explicitly for planning and prioritizing what we want the next thing to look like. To request new features for current generation tooling, please visit the [Deforum Discord](https://discord.com/invite/deforum).
 
 * [**Suggest a feature**](https://github.com/deforum-art/feature-requests/discussions/new?category=ideas): create a new discusion under the "ideas" category
 * [**Suggest a discussion topic**](https://github.com/deforum-art/feature-requests/discussions/new?category=general): create a new discussion under the "general" category

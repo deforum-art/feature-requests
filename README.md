@@ -1,8 +1,10 @@
 
 
-# Feature Requests
+# Forum for developer discussion and triaging of future features and design
 
-internal (for now) discussion and voting on potential features and design for project planning and requirements collection
+This is a space for deforum developers to collaboratively plan the next generation of AI tooling.
+
+**This space is NOT for users to request features for the current deforum.** This is explicitly for planning and prioritizing what we want the next thing to look like.
 
 * [**Suggest a feature**](https://github.com/deforum-art/feature-requests/discussions/new?category=ideas): create a new discusion under the "ideas" category
 * [**Suggest a discussion topic**](https://github.com/deforum-art/feature-requests/discussions/new?category=general): create a new discussion under the "general" category

@@ -4,8 +4,8 @@
 
 internal (for now) discussion and voting on potential features and design for project planning and requirements collection
 
-* **Suggest a feature**: create a new discusion under the "ideas" category
-* **Suggest a topic**: for semi-structured discussion, create a post under the "general" category
+* [**Suggest a feature**](https://github.com/deforum-art/feature-requests/discussions/new?category=ideas): create a new discusion under the "ideas" category
+* [**Suggest a discussion topic**](https://github.com/deforum-art/feature-requests/discussions/new?category=general): create a new discussion under the "general" category
 
 # Why here?
 

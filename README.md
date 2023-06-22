@@ -7,4 +7,4 @@ Huemin has attempted to get us brainstorming about this on discord for [months](
 
 The purpose of this repository is just to use the "discussions" tab as a mechanism for proposing, discussing, and prioritizing potential features.
 
-Please visit the discussions page and join the conversation!
+Please visit the [**discussions**](https://github.com/deforum-art/feature-requests/discussions) page and join the conversation!
